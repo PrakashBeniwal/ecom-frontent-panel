@@ -1,0 +1,6 @@
+@media (max-width: 991.98px) {
+    .custom {
+      display: inline-block !important;
+      border-radius: 2px solid blue;
+    }
+  }
